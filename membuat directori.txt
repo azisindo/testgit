@@ -1,0 +1,20 @@
+- membuat directori
+  mkdir [nama folder]->make directory
+
+- pindah dirktori
+  cd ->
+  d:\ --root directory
+  c:\ --root directory
+
+cd ..pindah 1 tingkat ke bawah
+cd / akan berpindah ke root directory
+
+- cls -> clear screen
+- pindah directory
+  d:
+- dir -> melihat directory
+- dir /a -> untuk melihat directory yang di hiden
+
+
+
+
